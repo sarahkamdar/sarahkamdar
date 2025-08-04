@@ -40,9 +40,7 @@
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sarahkamdar/)
-- 📧 Email: [sarahkamdar2004@gmail.com](mailto:sarahkamdar2004@gmail.com)
+- 📧 Email: [sarahkamdar2004@gmail.com](mailto:sarahkamdar90@gmail.com)
 
 ---
 
-_“Strive not to be a success, but rather to be of value.” – Albert Einstein_
-````
