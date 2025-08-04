@@ -1,4 +1,4 @@
-````markdown name=README.md
+
 # 👋 Hi there, I'm Sarah Kamdar
 
 💻 Passionate Computer Science Engineering student | Future SDE | Tech Explorer  
