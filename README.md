@@ -40,7 +40,7 @@
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sarahkamdar/)
-- 📧 Email: [sarahkamdar2004@gmail.com](mailto:sarahkamdar90@gmail.com)
+- 📧 Email: [sarahkamdar90@gmail.com](mailto:sarahkamdar90@gmail.com)
 
 ---
 
