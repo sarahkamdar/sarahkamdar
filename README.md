@@ -10,8 +10,7 @@
 - 🎓 3rd-year B.Tech CSE student at CHARUSAT  
 - 🧑‍💻 Built full-stack applications using JavaScript, Node.js, and MongoDB  
 - 🤖 Currently working on **EDUGEN**, an AI-based platform for generating summaries, quizzes, and study content  
-- 📊 Solved 200+ DSA problems across LeetCode, CodeChef, and Codeforces  
-- ☁️ Preparing for AWS Cloud Practitioner to understand deployment and cloud basics  
+- 📊 Solved 200+ DSA problems across LeetCode, CodeChef, and Codeforces    
 
 ---
 
@@ -44,7 +43,7 @@ Git, GitHub, Postman, Firebase
 
 ## 📈 GitHub Stats
 
-![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahkamdar&show_icons=true&theme=radical&cache_seconds=1800&v=1)
+![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahkamdar&show_icons=true&theme=radical&include_all_commits=true&hide_border=true)
 
 ---
 
