@@ -1,46 +1,54 @@
+# 👋 Hi, I'm Sarah Kamdar
 
-# 👋 Hi there, I'm Sarah Kamdar
-
-💻 Passionate Computer Science Engineering student | Future SDE | Tech Explorer  
-🚀 Seeking challenging opportunities to solve real-world problems and grow as a developer
+💻 Computer Science student focused on backend and full-stack development  
+🚀 Building real-world applications and exploring how AI can be used in products  
 
 ---
 
 ## 🧠 About Me
-- 🎓 3rd-year (5th semester) B.Tech CSE student at CHARUSAT University
-- 🧑‍💻 Open to full-time internships and research opportunities in software development
-- 💡 Exploring Data Science, Web Development, and Backend Engineering
-- 🌱 Currently learning: DSA, MERN stack, and Machine Learning basics
-- ⚡ Fun fact: I enjoy working on side projects, organizing things, and creating clean UI
+
+- 🎓 3rd-year B.Tech CSE student at CHARUSAT  
+- 🧑‍💻 Built full-stack applications using JavaScript, Node.js, and MongoDB  
+- 🤖 Currently working on **EDUGEN**, an AI-based platform for generating summaries, quizzes, and study content  
+- 📊 Solved 200+ DSA problems across LeetCode, CodeChef, and Codeforces  
+- ☁️ Preparing for AWS Cloud Practitioner to understand deployment and cloud basics  
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Languages:**  
+C++, Python, JavaScript  
+
+**Backend:**  
+Node.js, Express, REST APIs  
+
+**Database:**  
+MongoDB, SQL  
+
+**Frontend:**  
+HTML, CSS, JavaScript  
+
+**Tools:**  
+Git, GitHub, Postman, Firebase  
+
+---
+
+## 📌 What I'm Focused On
+
+- Writing cleaner backend logic and APIs  
+- Improving problem-solving through DSA and contests  
+- Building projects that solve real problems (not just templates)  
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahkamdar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahkamdar&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sarahkamdar/)
-- 📧 Email: [sarahkamdar90@gmail.com](mailto:sarahkamdar90@gmail.com)
-
----
-
+- 📧 sarahkamdar90@gmail.com
